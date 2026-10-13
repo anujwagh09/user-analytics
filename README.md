@@ -9,9 +9,8 @@ A small full-stack app that tracks user interactions on a webpage and shows them
 ## Live demo
 
 > Fill these in after deploying. If you did not host the app, delete this section.
-
-- Dashboard: `<dashboard link>`
-- Backend / demo page: `<backend link>/demo/index.html`
+-  Dashboard: https://user-analytics-ten.vercel.app
+-  Backend / demo page: https://user-analytics-api-m93z.onrender.com/demo/index.html
 
 Note: if the backend is on a free hosting tier, the first request after a period of inactivity can take 30 to 60 seconds.
 
