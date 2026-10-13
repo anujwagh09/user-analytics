@@ -231,9 +231,3 @@ Indexes:
 - Date range filters and charts (events over time)
 - Automated tests for the API
 
-## Deploying (optional)
-
-- **Database:** MongoDB Atlas free cluster. Allow network access and use its connection string as `MONGO_URI`.
-- **Backend:** any Node host (for example Render). Root directory `backend`, build command `npm install`, start command `node server.js`, environment variable `MONGO_URI`.
-- **Dashboard:** any static host (for example Vercel). Root directory `dashboard`, environment variable `VITE_API_URL` set to the backend URL (no trailing slash).
-- Because the backend serves `tracker.js` and the demo pages, the hosted demo page works at `<backend url>/demo/index.html`.
