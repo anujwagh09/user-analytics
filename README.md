@@ -16,6 +16,11 @@ A small full-stack app that tracks user interactions on a webpage and shows them
 Note: if the backend is on a free hosting tier, the first request after a period of inactivity can take 30 to 60 seconds.
 
 ## Screenshots
+<img width="1722" height="793" alt="Screenshot 2026-10-13 112113" src="https://github.com/user-attachments/assets/0800ab89-8e75-4763-b4db-6fe7b30fc60b" />
+<img width="1482" height="872" alt="Screenshot 2026-10-13 112123" src="https://github.com/user-attachments/assets/e9be3c84-4eea-4727-8a5c-c5bbec34befd" />
+<img width="1397" height="932" alt="Screenshot 2026-10-13 112137" src="https://github.com/user-attachments/assets/314d3e02-fa52-4f92-875e-a3911e1b2f81" />
+<img width="1285" height="891" alt="Screenshot 2026-10-13 112156" src="https://github.com/user-attachments/assets/ca4827e2-c5fc-4f10-86a4-2ec6515b7c95" />
+<img width="1250" height="880" alt="image" src="https://github.com/user-attachments/assets/57cbce18-4bf7-474b-9555-994a584593d1" />
 
 <!-- Add screenshots here, for example:
 ![Sessions view](docs/sessions.png)
